@@ -1,5 +1,5 @@
-governor_race
-=============
+Anaylsis of Governor Races
+==========================
 
 Analysis of polling data about the upcoming Governor races
 
