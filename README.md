@@ -4,7 +4,7 @@ Anaylsis of Governor Races
 Analysis of polling data about the upcoming Governor races
 
 
-## Collect and Clean
+## Step 1: Collect and Clean
 The [Real Clear Politics](http://www.realclearpolitics.com) website archives many political polls. In addition, they combine related polls to form an "RCP average" estimate of public opinion over time.
 
 First, create an `get_poll_xml` function, that finds and downloads an XML page from Real Clear Politics:
